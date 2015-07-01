@@ -6,7 +6,7 @@ Hello, this is my attempt for porting TWRP on YotaPhone 2.
 
 http://forum.xda-developers.com/yotaphone-one/development/twrp-twrp-2-8-5-0-recovery-yotaphone2-t3142024
 
-Please you that one!
+Please use that one!
 
 # Installation
 
